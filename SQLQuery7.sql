@@ -1,0 +1,1 @@
+ALTER TABLE [Bezzubets_DZ_Patients].[dbo].[Patients] ADD Diseases int NULL;
